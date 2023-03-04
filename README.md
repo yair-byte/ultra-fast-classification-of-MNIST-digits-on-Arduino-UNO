@@ -23,14 +23,13 @@ Program storage space: 8540 Bytes (26%)
 Global variables: 1778 Bytes (86% of dynamic memory)
 
 
-
 Consufion Matrix:
 
-<img width="252" alt="image" src="https://user-images.githubusercontent.com/56457143/222914784-43a070f0-cfab-41cb-be64-663b1d98c41c.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56457143/222914784-43a070f0-cfab-41cb-be64-663b1d98c41c.png">
 
 Some predictions:
 
-<img width="483" alt="image" src="https://user-images.githubusercontent.com/56457143/222914828-a7d90437-78d4-4e9b-8f4b-d19d536abbb7.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/56457143/222914828-a7d90437-78d4-4e9b-8f4b-d19d536abbb7.png">
 
-
+To use the program just open the .ino file and upload it to your Arduino Uno, enjoy!
 
