@@ -23,7 +23,7 @@ Program storage space: 8540 Bytes (26%)
 Global variables: 1778 Bytes (86% of dynamic memory)
 
 
-Consufion Matrix:
+Confusion Matrix:
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/56457143/222914784-43a070f0-cfab-41cb-be64-663b1d98c41c.png">
 
