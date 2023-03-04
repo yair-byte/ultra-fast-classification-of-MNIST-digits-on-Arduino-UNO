@@ -1,4 +1,4 @@
-# Ultra-fast-classification-of-MNIST-digits-on-Arduino-UNO
+# Ultra-fast-classification-of-MNIST-digits-on-Arduino-UNO ✍🏼 🧠 🚀
 
 Handwritten digit classification model for Arduino UNO using a binary neural network with binarized input. TensorFlow/Keras and Larq were used for the implementation and training of the model, for the export to C code the EmbedIA library was used.
 
